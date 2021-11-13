@@ -109,6 +109,11 @@ ALTER ROLE <user_name> WITH NOSUPERUSER;
 DROP USER IF EXISTS <user_name>;
 ```
 
+### List all existing users with superuser privileges
+'''
+SELECT <user_name>, rolsuper FROM pg_roles;
+'''
+
 ## Databases
 ### List databases
 ```
