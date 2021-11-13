@@ -1,4 +1,4 @@
-# PostgreaSQL-cheatsheet
+# PostgreSQL-cheatsheet
 A PostgreSQL cheat sheet with the common PostgreSQL commands
 
 ## General
