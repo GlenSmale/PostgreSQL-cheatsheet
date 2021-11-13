@@ -2,7 +2,6 @@
 Quickref cheatsheet for PostgreSQL database users
 <br>
 <br>
-<br>
 ### Getting Started
 <em>Run in terminal</em>
 ```
@@ -86,6 +85,26 @@ DROP USER IF EXISTS <user_name>;
 ### Alter user password
 ```
 ALTER ROLE <user_name> WITH PASSWORD '<password>';
+```
+
+### Create a new user 
+```
+CREATE USER <user_name> WITH PASSWORD '<password>';
+```
+
+### Alter user with superuser privilege
+```
+ALTER ROLE <user_name> WITH SUPERUSER;
+```
+
+### Revoke user superuser status
+```
+ALTER ROLE <user_name> WITH NOSUPERUSER;
+```
+
+### Drop superuser
+```
+DROP USER IF EXISTS <user_name>;
 ```
 
 ## Databases
