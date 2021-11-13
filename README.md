@@ -1,7 +1,7 @@
 # PostgreSQL-Quick-ref
 Quick-ref cheatsheet for PostgreSQL database users
 
-### Navigation
+## Navigation
 ### PostgreSQL Cheat Sheet
 [PostgreSQL-cheatsheet](https://github.com/GlenSmale/PostgreSQL-cheatsheet/blob/main/PostgreSQL-cheatsheet.md)
 
