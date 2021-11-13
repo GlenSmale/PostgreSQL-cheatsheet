@@ -1,5 +1,5 @@
 # PostgreSQL-cheatsheet
-Quickref cheatsheet for PostgreSQL database users
+Quick-ref cheatsheet for PostgreSQL database users
 <br>
 <br>
 ### Getting Started
