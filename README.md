@@ -70,7 +70,9 @@ GRANT SELECT ON ALL TABLES IN SCHEMA public TO <user_name>;
 
 ## Users
 ### List roles
+```
 SELECT rolname FROM pg_roles;
+```
 
 ### Create user
 ```
