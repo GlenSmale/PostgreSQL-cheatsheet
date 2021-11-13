@@ -1,5 +1,5 @@
 # PostgreSQL-cheatsheet
-A PostgreSQL cheat sheet with the common PostgreSQL commands
+A Quickref cheatsheet for PostgreSQL
 
 ## General
 ### Switch and connect
