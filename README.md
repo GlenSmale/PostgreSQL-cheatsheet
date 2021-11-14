@@ -1,8 +1,8 @@
-# PostgreSQL-Quick-ref
+# Postgres Quick Reference Guide
 A list of my commonly used PostgreSQL commands and errors encoutered for PostgreSQL
 
 ## Navigation
-### PostgreSQL Cheat Sheet
+### Postgres Cheat Sheet
 [PostgreSQL-cheatsheet](https://github.com/GlenSmale/PostgreSQL-cheatsheet/blob/main/PostgreSQL-cheatsheet.md)
 
 ### Fix Common Errors
