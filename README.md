@@ -1,5 +1,5 @@
 # PostgreSQL-Quick-ref
-Quick-ref cheatsheet for PostgreSQL database users
+A list of my commonly used PostgreSQL commands and errors encoutered for PostgreSQL
 
 ## Navigation
 ### PostgreSQL Cheat Sheet
