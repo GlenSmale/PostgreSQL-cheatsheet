@@ -115,6 +115,8 @@ SELECT <user_name>, rolsuper FROM pg_roles;
 ```
 
 ## Databases
+<em>Run in psql console postgres=#</em>
+
 ### List databases
 ```
 \l
